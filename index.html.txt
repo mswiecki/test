@@ -1,6 +1,1 @@
-moja nowa strona
-blablabla
-blablabla
-blablabla
-xxxxxxx
-dddddddddd
+new content of index html
